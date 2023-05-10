@@ -1,4 +1,4 @@
-Hashtags app is an app that  let's you receive a duplicate free output when you type in identical hashtags into the textarea. The technologies used are: React, Bootstrap, GitHub, Canva and Figma.
+Hashtags app is an app that  let's you receive a duplicate free output when you type in identical hashtags into the textarea. The technologies used are: React, Redux, CSS, GitHub, Canva and Figma.
 
 # Getting Started with Create React App
 
